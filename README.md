@@ -11,7 +11,8 @@
 - Java | C | C# | JavaScript  
 - HTML | CSS | React | Node.js  
 - SQL | MySQL 
-- Git | GitHub  
+- Git | GitHub
+## ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larissamateini&layout=compact)
 
 ---
 
@@ -24,3 +25,4 @@
 - 🔹 [Campo Minado em Java (console)](https://github.com/larissamateini/CampoMinado)  
 
 👉 Veja mais em: [Meus Repositórios](https://github.com/larissamateini)
+
