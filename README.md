@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Olá, eu sou a Larissa
 
-<!--
-**larissamateini/larissamateini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de CTeSP em Tecnologia e Programação em Sistemas Informáticos  
+💻 Focada em desenvolvimento de software e aplicações web  
+🎯 Em busca de estágio curricular
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+
+- Java | C | C# | JavaScript  
+- HTML | CSS | React | Node.js  
+- SQL | MySQL 
+- Git | GitHub  
+
+---
+
+## 📌 Projetos em destaque
+
+- 🔹 [FoodExplorer (React/Node.js)](https://github.com/larissamateini/web-foodexplorer)
+- 🔹 [FlavouredClick -App Mobile (AndroidStudio/Java)](https://github.com/larissamateini/FlavouredClick)
+- 🔹 [RocketNotes (React/Node.js)](https://github.com/larissamateini/web-rocketnotes)
+- 🔹 [Moview (Mustache.js/Node.js)](https://github.com/larissamateini/moview)
+- 🔹 [Campo Minado em Java (console)](https://github.com/larissamateini/CampoMinado)  
+
+👉 Veja mais em: [Meus Repositórios](https://github.com/larissamateini)
